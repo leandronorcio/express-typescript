@@ -1,7 +1,7 @@
 {
-  "name": "express-pg-typescript",
+  "name": "express-ts",
   "version": "1.0.0",
-  "description": "A simple Express REST API that uses PostgreSQL, built with TypeScript.",
+  "description": "A simple Express + TypeScript setup",
   "main": "index.js",
   "scripts": {
     "build": "rimraf dist && npx tsc",
