@@ -1,5 +1,5 @@
 {
-  "name": "express-ts",
+  "name": "express-typescript",
   "version": "1.0.0",
   "description": "A minimal Express + TypeScript setup",
   "main": "index.js",
